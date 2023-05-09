@@ -1,6 +1,6 @@
 # Mohamad Hammoud 👨‍💻 - Full Stack Blockchain Developer 🌐
 
-![Mohamad Hammoud](image.JPG)
+<img src="./image.JPG" alt="Mohamad Hammoud" width="400"/>
 
 Hello there! My name is Mohamad Hammoud, and I'm a full stack blockchain developer with experience in ReactJS, NodeJS, Express, Next.js 13, Blockchain, TypeScript, Solidity, and smart contract integration through ethers.js on both frontend and backend side.
 
