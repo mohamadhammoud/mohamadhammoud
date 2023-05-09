@@ -1,6 +1,8 @@
 # Mohamad Hammoud 👨‍💻 - Full Stack Blockchain Developer 🌐
 
-Hello there! My name is Mohamad Hammoud, and I'm a full stack blockchain developer with experience in ReactJS, NodeJS, Express, Next.js 13, Blockchain, TypeScript, Solidity, and smart contract integration through ethers.js on both frontend and backend side. 
+![Mohamad Hammoud](image.JPG)
+
+Hello there! My name is Mohamad Hammoud, and I'm a full stack blockchain developer with experience in ReactJS, NodeJS, Express, Next.js 13, Blockchain, TypeScript, Solidity, and smart contract integration through ethers.js on both frontend and backend side.
 
 ## About Me 🙋‍♂️
 
@@ -29,4 +31,3 @@ Check out my pinned repositories to see some of the blockchain projects I have w
 ## Contact 📞
 
 If you have any questions or would like to collaborate on a project, feel free to <a href="mailto:mohamad.hammoudk@gmail.com">email me</a>.
-
