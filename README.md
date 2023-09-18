@@ -26,6 +26,7 @@ Here are some certificates I have earned:
 
 ## Projects 💻
 
+Co-authored EIP-6960: [Click here](https://eips.ethereum.org/EIPS/eip-6960) 🎓
 Check out my pinned repositories to see some of the blockchain projects I have worked on.
 
 ## Contact 📞
