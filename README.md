@@ -26,8 +26,18 @@ Here are some certificates I have earned:
 
 ## Projects 💻
 
-Co-authored EIP-6960: [Click here](https://eips.ethereum.org/EIPS/eip-6960) 🎓
+### EIPs
+- Co-authored EIP-6960: [Click here](https://eips.ethereum.org/EIPS/eip-6960) 🎓
+- Co-authored EIP-7410: [Click here](https://eips.ethereum.org/EIPS/eip-7410) 🎓
 
+### Libraries
+
+- Dual Layer Token Creator and Collaborator: [Click here](https://www.npmjs.com/package/dual-layer-token) 🎓
+- Biconomy swc-contracts Contributor: [Click here](https://github.com/bcnmy/scw-contracts) 🎓
+- Biconomy biconomy-paymasters Contributor: [Click here](https://github.com/bcnmy/biconomy-paymasters) 🎓
+- Biconomy metatx-standard Contributor: [Click here](https://github.com/bcnmy/metatx-standard) 🎓
+
+https://github.com/bcnmy/biconomy-paymasters
 Check out my pinned repositories to see some of the blockchain projects I have worked on.
 
 ## Contact 📞
