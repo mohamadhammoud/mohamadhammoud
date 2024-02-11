@@ -37,7 +37,6 @@ Here are some certificates I have earned:
 - Biconomy biconomy-paymasters Contributor: [Click here](https://github.com/bcnmy/biconomy-paymasters) 🎓
 - Biconomy metatx-standard Contributor: [Click here](https://github.com/bcnmy/metatx-standard) 🎓
 
-https://github.com/bcnmy/biconomy-paymasters
 Check out my pinned repositories to see some of the blockchain projects I have worked on.
 
 ## Contact 📞
