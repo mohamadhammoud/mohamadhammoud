@@ -2,7 +2,7 @@
 
 <img src="./image.JPG" alt="Mohamad Hammoud" width="400"/>
 
-Hello there! My name is Mohamad Hammoud, and I'm a full stack blockchain developer with experience in ReactJS, NodeJS, Express, Next.js 13, Blockchain, TypeScript, Solidity, Foundry, Hardhat and smart contract integration through ethers.js on both frontend and backend side.
+Hello there! My name is Mohamad Hammoud, and I'm a full stack blockchain developer with experience in ReactJS, NodeJS, Express.js, Next.js 13, Blockchain, TypeScript, Solidity, Foundry, Hardhat and Smart Contract integration through ethers.js on both frontend and backend side.
 
 ## About Me 🙋‍♂️
 
