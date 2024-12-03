@@ -6,7 +6,9 @@ Hello there! My name is Mohamad Hammoud, and I'm a Full Stack Blockchain Develop
 
 ## About Me 🙋‍♂️
 
-I am passionate about exploring new technologies and building innovative solutions that can solve real-world problems. My expertise lies in building decentralized applications, smart contracts, and web3 integrations. I have worked with various blockchain technologies, including Ethereum, Binance Smart Chain, and Polygon.
+I am passionate about exploring new technologies and building innovative solutions that can solve real-world problems. My expertise lies in building decentralized applications, smart contracts, and web3 integrations. I have worked with various blockchain technologies, including Ethereum, Binance Smart Chain, and Polygon. 
+
+I do have deep nnowledge in Ethereum standards including ERC-4337 and contributed to some open source projects such as Biconomy, ensuring advanced solutions in Account Abstraction.
 
 ## Professional Profiles 🔗
 
