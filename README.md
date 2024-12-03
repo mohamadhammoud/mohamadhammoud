@@ -35,9 +35,9 @@ Here are some certificates I have earned:
 ### Libraries
 
 - Dual Layer Token Creator and Collaborator: [Click here](https://www.npmjs.com/package/dual-layer-token) 🎓
-- Biconomy swc-contracts Contributor: [Click here](https://github.com/bcnmy/scw-contracts) 🎓
-- Biconomy biconomy-paymasters Contributor: [Click here](https://github.com/bcnmy/biconomy-paymasters) 🎓
-- Biconomy metatx-standard Contributor: [Click here](https://github.com/bcnmy/metatx-standard) 🎓
+- Biconomy swc-contracts Contributor (Account Abstraction): [Click here](https://github.com/bcnmy/scw-contracts) 🎓
+- Biconomy biconomy-paymasters Contributor (Account Abstraction): [Click here](https://github.com/bcnmy/biconomy-paymasters) 🎓
+- Biconomy metatx-standard Contributor (Old Account Abstraction - EIP 2771): [Click here](https://github.com/bcnmy/metatx-standard) 🎓
 
 Check out my pinned repositories to see some of the blockchain projects I have worked on.
 
