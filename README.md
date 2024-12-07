@@ -6,7 +6,13 @@ Hello there! My name is Mohamad Hammoud, and I'm a Full Stack Blockchain Develop
 
 ## About Me 🙋‍♂️
 
-I am passionate about exploring new technologies and building innovative solutions that can solve real-world problems. My expertise lies in building decentralized applications, smart contracts, DEFI (Decentralized Finance), RWA (Real World Assets) protocols and web3 integrations. I have worked with various blockchain technologies, including Ethereum, Binance Smart Chain, and Polygon. 
+I am passionate about exploring new technologies and building innovative solutions that can solve real-world problems. My expertise lies in building of decentralized applications (dApps), smart contracts, and blockchain-based protocols. I have a proven track record in Decentralized Finance (DeFi), including:
+
+- Uniswap: Automated market-making and token swaps
+- Compound: Decentralized lending and borrowing platforms
+- MakerDAO: Stablecoin issuance and collateral management
+  
+In addition, I specialize in Real-World Asset (RWA) protocols and seamless Web3 integrations. My professional experience includes working with leading blockchain ecosystems such as Ethereum, Binance Smart Chain, and Polygon, where I have contributed to building scalable and impactful solutions.
 
 I do have deep knowledge in Ethereum standards including ERC-4337 and contributed to some open source projects such as Biconomy, ensuring advanced solutions in Account Abstraction, in addition of writing some medium account abstraction articles.
 - [The Drive for Account Abstraction](https://medium.com/@mohamad.hammoudk/the-drive-for-account-abstraction-c44058cbdce0) 👔
