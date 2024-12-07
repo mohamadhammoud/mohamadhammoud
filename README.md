@@ -11,7 +11,7 @@ I am passionate about exploring new technologies and building innovative solutio
 I do have deep knowledge in Ethereum standards including ERC-4337 and contributed to some open source projects such as Biconomy, ensuring advanced solutions in Account Abstraction, in addition of writing some medium account abstraction articles.
 - [The Drive for Account Abstraction](https://medium.com/@mohamad.hammoudk/the-drive-for-account-abstraction-c44058cbdce0) 👔
 - [Account Abstraction (ERC-4337): Scenarios and Possibilities](https://medium.com/@mohamad.hammoudk/account-abstraction-erc-4337-scenarios-and-possibilities-ff8e6dfd9b56) 🐦
-- Email: [mohamad.hammoudk@gmail.com](mailto:mohamad.hammoudk@gmail.com) 📧
+- [Account Abstraction (ERC-4337): A Technical Exploration](https://medium.com/solichain/account-abstraction-erc-4337-a-technical-exploration-34d4c9f3f0ab) 📧
 
 ## Professional Profiles 🔗
 
