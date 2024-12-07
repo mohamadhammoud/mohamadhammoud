@@ -8,7 +8,10 @@ Hello there! My name is Mohamad Hammoud, and I'm a Full Stack Blockchain Develop
 
 I am passionate about exploring new technologies and building innovative solutions that can solve real-world problems. My expertise lies in building decentralized applications, smart contracts, and web3 integrations. I have worked with various blockchain technologies, including Ethereum, Binance Smart Chain, and Polygon. 
 
-I do have deep knowledge in Ethereum standards including ERC-4337 and contributed to some open source projects such as Biconomy, ensuring advanced solutions in Account Abstraction.
+I do have deep knowledge in Ethereum standards including ERC-4337 and contributed to some open source projects such as Biconomy, ensuring advanced solutions in Account Abstraction, in addition of writing some medium account abstraction articles.
+- [The Drive for Account Abstraction](https://medium.com/@mohamad.hammoudk/the-drive-for-account-abstraction-c44058cbdce0) 👔
+- Twitter: [https://twitter.com/HammoudMohamadk](https://twitter.com/HammoudMohamadk) 🐦
+- Email: [mohamad.hammoudk@gmail.com](mailto:mohamad.hammoudk@gmail.com) 📧
 
 ## Professional Profiles 🔗
 
